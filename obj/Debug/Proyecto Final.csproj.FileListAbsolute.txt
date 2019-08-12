@@ -1,0 +1,41 @@
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\EAGetMail45.dll
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Juan Javier\source\repos\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form2.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form3.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form5.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form6.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form7.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form8.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Form9.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\PMDatabase.mdf
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\PMDatabase_log.ldf
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\EAGetMail45.dll
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Javier\Dropbox\Study & Work\USFQ\8vo Semestre\Desarrollo de Aplicaciones\Pacient Manager\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete

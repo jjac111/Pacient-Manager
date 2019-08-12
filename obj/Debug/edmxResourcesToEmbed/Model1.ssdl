@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PMDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Citas">
+    <Key>
+      <PropertyRef Name="Fecha" />
+    </Key>
+    <Property Name="Paciente" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Lugar" Type="nvarchar" MaxLength="30" />
+    <Property Name="Observaciones" Type="nvarchar(max)" />
+    <Property Name="Status" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Pacientes">
+    <Key>
+      <PropertyRef Name="Cedula" />
+    </Key>
+    <Property Name="Cedula" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Nombres" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Apellidos" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="SexoGenero" Type="nvarchar" MaxLength="3" />
+    <Property Name="FechaNac" Type="date" />
+    <Property Name="Email" Type="nvarchar" MaxLength="30" />
+    <Property Name="Detalles" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="PMDatabaseModelStoreContainer">
+    <EntitySet Name="Citas" EntityType="Self.Citas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pacientes" EntityType="Self.Pacientes" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
